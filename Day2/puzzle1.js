@@ -6,12 +6,12 @@ fs.readFile("AdventOfCode2022/Day2/input.txt",'utf-8',(err, data) => {
   C=Z=Scissors=3
   
   Scores:
-  Loose: 0
+  Lose: 0
   Draw: 3
   win: 6
   
   Scenarios:
-  Loose:
+  Lose:
   AY
   BZ
   CX
